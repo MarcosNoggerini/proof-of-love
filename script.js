@@ -33,5 +33,5 @@ window.addEventListener('load', () => {
 const btn2 = document.querySelector('#btn2');
 
 btn2.addEventListener('click', () => {
-	window.location.href = 'https://www.tiktok.com/@good.joji/video/7152168590504987950?_r=1&_t=8dD9ZgkvmsQ&social_sharing=v3';
+	window.location.href = 'https://www.google.com.br/maps/place/Centro+Cultural+São+Paulo/@-23.5711086,-46.6427098,17z/data=!3m1!4b1!4m6!3m5!1s0x94ce59984baaaaab:0x8e470a76a1aef0d7!8m2!3d-23.5711135!4d-46.6401295!16s%2Fg%2F122wtrks?entry=ttu';
 });
