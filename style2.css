@@ -1,0 +1,8 @@
+#btn2 {
+	background-color: #00ff3c;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-200%, -50%);
+    font-size: 25px
+}
